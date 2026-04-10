@@ -39,7 +39,8 @@
 #### Date Functions (DATEDIFF, STR_TO_DATE)
 
 ## Sample Queries
-#### Patient distribution by gender
+
+## Patient distribution by gender
 #### SELECT Gender, COUNT(*) AS Total_Patient
 #### FROM healthcare
 #### GROUP BY Gender;
